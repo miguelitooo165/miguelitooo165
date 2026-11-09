@@ -1,4 +1,4 @@
-# Hola, soy José Miguel Munar 👋
+# Hola, soy Miguel Munar 👋
 
 ## Sobre mí
 Soy aprendiz del Técnico en Programación de Software del SENA (ficha 3538620).
