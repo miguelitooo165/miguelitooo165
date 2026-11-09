@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy José Miguel Munar 👋
 
-<!--
-**miguelitooo165/miguelitooo165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy aprendiz del Técnico en Programación de Software del SENA (ficha 3538620).
 
-Here are some ideas to get you started:
+## Tecnologías que estoy aprendiendo
+- HTML
+- CSS
+- JavaScript
+- PHP
+- APIs REST
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Actualmente estoy trabajando en
+- Desarrollo web
+- Consumo y creación de APIs
+- Lógica de programación
+- Control de versiones
+
+## Objetivo
+Construir proyectos que evidencien mi proceso de aprendizaje y fortalecer mi perfil como desarrollador.
+
+## Proyectos destacados
+- [Portafolio Web](https://github.com/miguelitooo165/portafolio-web)
