@@ -23,3 +23,4 @@ Construir proyectos que evidencien mi proceso de aprendizaje y fortalecer mi per
 
 ## Proyectos destacados
 - [Portafolio Web](https://github.com/miguelitooo165/portafolio-web)
+- 🍲 **[Portal de Recetas API](https://github.com/miguelitooo165/portal-recetas-api)** – Buscador de recetas con HTML, CSS, JavaScript y una API propia en PHP que consume TheMealDB. Proyecto del Taller Integrador GitHub.
